@@ -85,7 +85,7 @@ ___  ____ _ _ _ _  _ _    ____ ____ ___  ____ ____
 	print("\n")
 	sd1(f"{G}[+] CREATED BY SOLOMON ADENUGA")
 	print("\n")
-	sd1("[✓] GITHUB: SOLOTECH01")
+	sd1("[✓] GITHUB: TheLogeek")
 	print(RESET)
 	yt_vid()
 
