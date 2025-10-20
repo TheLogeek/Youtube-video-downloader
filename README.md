@@ -16,7 +16,7 @@ pkg install python3
 
 pkg install pip
 
-git clone https://github.com/SoloTech01/Youtube-video-downloader.git
+git clone https://github.com/TheLogeek/Youtube-video-downloader.git
 
 cd Youtube-video-downloader
 
